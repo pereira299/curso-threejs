@@ -1,0 +1,11 @@
+{
+  "name": "curso-threejs",
+  "version": "1.0.0",
+  "description": "Curso Three.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lucas Pereira",
+  "license": "ISC"
+}
